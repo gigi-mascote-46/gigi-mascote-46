@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Gigi!</h1>
+<h1 align="center">👋 Olá, eu sou a Angela (Gigi)!</h1>
 
 <p align="center">
   💡 Criativa | 🛠️ Técnica | 🔍 Curiosa | 🌍 Multidisciplinar
@@ -72,6 +72,9 @@ Atualmente a desenvolver projetos com **Laravel**, **Vue**, **Kotlin** e APIs co
 ---
 
 ### 🐍 GitHub Stats
+### ✨ Snake Animation
+
+![snake gif](https://github.com/gigi-mascote-46/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
 
 ![Gigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=tokyonight&hide_title=true)
 
