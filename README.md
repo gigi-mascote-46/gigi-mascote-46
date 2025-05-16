@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=UX+%7C+Laravel+%7C+Android+%7C+Criatividade+com+prop%C3%B3sito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=UX+%7C+Laravel+%7C+Android+%7C+Criatividade+com+prop%C3%B3sito" alt="Typing SVG" />
 </p>
 
 ---
