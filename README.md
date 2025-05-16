@@ -79,10 +79,4 @@ Atualmente a desenvolver projetos com **Laravel**, **Vue**, **Kotlin** e APIs co
 
 ---
 
-### ✨ Snake Animation
-
-![snake gif](https://github.com/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">💬 "A tecnologia é mais humana quando aproxima e transforma." - Gigi</p>
