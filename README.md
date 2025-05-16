@@ -81,7 +81,7 @@ Atualmente a desenvolver projetos com **Laravel**, **Vue**, **Kotlin** e APIs co
 
 ### ✨ Snake Animation
 
-![snake gif](https://github.com/teu-username/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gigi-mascote-46/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
