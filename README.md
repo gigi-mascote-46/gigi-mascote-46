@@ -57,9 +57,9 @@ Atualmente a desenvolver projetos com **Laravel**, **Vue**, **Kotlin** e APIs co
 
 ### 📬 Onde me encontrar
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gigi.dev.exemplo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Portfólio](https://img.shields.io/badge/Portef%C3%B3lio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://gigi-portfolio.exemplo)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-peixoto/)
+
 
 ---
 
@@ -72,19 +72,16 @@ Atualmente a desenvolver projetos com **Laravel**, **Vue**, **Kotlin** e APIs co
 ---
 
 ### 🐍 GitHub Stats
-### ✨ Snake Animation
 
-![snake gif](https://github.com/gigi-mascote-46/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
+![Gigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gigi-mascote-46&show_icons=true&theme=tokyonight&hide_title=true)
 
-![Gigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-username&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi-mascote-46&layout=compact&theme=tokyonight)
 
 ---
 
 ### ✨ Snake Animation
 
-![snake gif](https://github.com/teu-username/teu-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/teu-username/gigi-mascote-46/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
