@@ -98,7 +98,7 @@ App Laravel para gestão de veículos, reservas, pagamentos e relatórios.
 
 ## 📬 Onde Me Encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-peixoto/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/gigi-mascote-46)
+
 
 [![](https://visitcount.itsvg.in/api?id=gigi-mascote-46&icon=0&color=6)](https://visitcount.itsvg.in)
 
